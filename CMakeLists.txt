@@ -1,2 +1,1 @@
-
-		ddoeturn 0;
+project(Main_study)
